@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MyProject3\Intermediate\Build\Win64\MyProject3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\MyProject3.cpp.obj"
+"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\MyProject3GameModeBase.cpp.obj"
+"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\MyProject3.init.gen.cpp.obj"
+"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\MyProject3GameModeBase.gen.cpp.obj"
+"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\Default.rc2.res"
+/OUT:"D:\MyProject3\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\UE4Editor-MyProject3.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject3
